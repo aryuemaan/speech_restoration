@@ -1,8 +1,3 @@
-# Decryption of a Corrupted Speech Signal — Technical Report
-
-**Author:** Sample Drop  
-**Date:** 2025-10-25
-
 ## 1. Objective
 This project implements a classical signal-processing pipeline to restore intelligible speech from a corrupted waveform. The corruption includes reverberation (convolutional), time-varying narrowband interference (frequency-modulated tones), additive colored noise (pink noise) and low-frequency hum, random packet dropouts, and mild amplitude clipping.
 
